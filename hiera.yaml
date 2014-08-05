@@ -1,0 +1,9 @@
+:backends:
+   - eyaml
+   - yaml
+:yaml:
+  :datadir: hiera/
+:eyaml:
+  :datadir: hiera/
+:hierarchy: secrets
+:logger: console

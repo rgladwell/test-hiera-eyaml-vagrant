@@ -1,0 +1,1 @@
+$secret=hiera('secret')
